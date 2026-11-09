@@ -1,0 +1,287 @@
+{
+  "siteMeta": {
+    "name": "SolarNomade",
+    "domain": "solarnomade.fr",
+    "tagline": "Le comparateur indépendant de stations d'énergie portables",
+    "updatedAt": "2026-11-01",
+    "updatedLabel": "Novembre 2026"
+  },
+  "site": {
+    "name": "SolarNomade",
+    "canonicalUrl": "https://solarnomade.fr/",
+    "nicheName": "Générateurs solaires portables",
+    "locale": "fr_FR",
+    "seoTitle": "Générateurs solaires portables : comparatif, avis et prix 2026 | SolarNomade",
+    "seoDescription": "Comparez 6 stations d'énergie portables : capacité, poids, puissance, batterie et prix indicatifs pour choisir le modèle adapté.",
+    "socialImage": "https://websiteoss.ecoflow.com/media/delta2/pc/d00aa2cb866e945bb5f6d2d8f3b80eda.webp",
+    "minIndexableProducts": 3,
+    "isThinContent": false,
+    "indexablePaths": ["/"],
+    "tagline": "L'énergie nomade, comparée avec clarté.",
+    "description": "Comparateur de stations d'énergie solaires portables.",
+    "priceDisclaimer": "Les prix affichés sont indicatifs et peuvent varier selon le marchand, les promotions et la date de consultation.",
+    "ratingsDisclaimer": "Les notes présentées sont des évaluations éditoriales indicatives, pas des moyennes d'avis clients vérifiées.",
+    "preloadFonts": [],
+    "robots": {
+      "aiCrawlers": [
+        { "userAgent": "GPTBot", "allow": ["/"], "disallow": [] },
+        { "userAgent": "Google-Extended", "allow": ["/"], "disallow": [] },
+        { "userAgent": "ClaudeBot", "allow": ["/"], "disallow": [] }
+      ]
+    }
+  },
+  "trustSignals": {
+    "updatedAt": "2026-11-01",
+    "updatedLabel": "Mise à jour : Novembre 2026",
+    "independenceLabel": "Comparatif indépendant",
+    "methodologyLabel": "Sélection éditoriale documentée",
+    "disclosure": "Certains liens sont affiliés. Une commission peut être versée au site sans coût supplémentaire pour l'acheteur."
+  },
+  "breadcrumbs": [
+    { "name": "Accueil", "item": "/" },
+    { "name": "Comparatif de générateurs solaires portables", "item": "/#comparatif" }
+  ],
+  "filters": {
+    "searchPlaceholder": "Rechercher une station ou une marque…",
+    "sortOptions": [
+      { "value": "recommended", "label": "Recommandation" },
+      { "value": "price-asc", "label": "Prix croissant" },
+      { "value": "price-desc", "label": "Prix décroissant" },
+      { "value": "rating-desc", "label": "Note éditoriale" }
+    ],
+    "batteryTypes": ["LFP", "NMC"]
+  },
+  "products": [
+    {
+      "id": "ecoflow-delta-2",
+      "seoSlug": "ecoflow-delta-2",
+      "name": "EcoFlow DELTA 2",
+      "brand": "EcoFlow",
+      "model": "DELTA 2",
+      "category": "Le Choix de la Rédaction — Référence globale",
+      "price": 549,
+      "priceEUR": 549,
+      "priceNote": "Prix indicatif constaté sur la boutique officielle ; disponibilité et tarif à vérifier.",
+      "rating": 4.8,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 9.4,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Une station polyvalente de 1 024 Wh qui combine une puissance de sortie élevée, une batterie LFP et une recharge rapide.",
+      "specs": { "capacityWh": 1024, "weightKg": 12, "maxOutputW": 1800, "outputW": 1800, "batteryType": "LFP" },
+      "badge": "Le Choix de la Rédaction",
+      "badgeTone": "emerald",
+      "pros": ["Puissance de sortie de 1 800 W", "Batterie LFP à longue durée de vie", "Recharge secteur rapide"],
+      "cons": ["Prix supérieur aux petits modèles", "Panneau solaire vendu séparément selon le pack"],
+      "stockUrgency": "Disponibilité à confirmer chez le marchand",
+      "expertReview": "Notre choix polyvalent pour qui recherche une capacité confortable, une puissance élevée et la chimie LFP. Vérifiez le prix et les accessoires inclus au moment de l'achat.",
+      "trustBadges": ["Garantie selon les conditions EcoFlow", "Livraison à vérifier au panier", "Boutique officielle EcoFlow"],
+      "image": { "src": "https://websiteoss.ecoflow.com/media/delta2/pc/d00aa2cb866e945bb5f6d2d8f3b80eda.webp", "alt": "Station d'énergie portable EcoFlow DELTA 2" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=EcoFlow+DELTA+2&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=EcoFlow+DELTA+2&tag=VOTRE_TAG-21", "brand": "https://fr.ecoflow.com/products/delta-2-portable-power-station?ref=VOTRE_ID_AFFILIE" }
+    },
+    {
+      "id": "ecoflow-river-2-max",
+      "seoSlug": "ecoflow-river-2-max",
+      "name": "EcoFlow RIVER 2 Max",
+      "brand": "EcoFlow",
+      "model": "RIVER 2 Max",
+      "category": "Le Meilleur Rapport Poids/Prix — Best-seller compact",
+      "price": 359,
+      "priceEUR": 359,
+      "priceNote": "Prix indicatif ; tarif et disponibilité peuvent varier.",
+      "rating": 4.6,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 9.1,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Un format compact de 512 Wh et environ 6 kg, avec batterie LFP et mode X-Boost annoncé jusqu'à 1 000 W.",
+      "specs": { "capacityWh": 512, "weightKg": 6, "maxOutputW": 1000, "outputW": 1000, "ratedOutputW": 500, "batteryType": "LFP" },
+      "badge": "Compacte & polyvalente",
+      "badgeTone": "amber",
+      "pros": ["Environ 6 kg pour 512 Wh", "Batterie LFP", "Mode X-Boost jusqu'à 1 000 W"],
+      "cons": ["Puissance nominale de 500 W hors X-Boost", "Capacité limitée pour les usages énergivores"],
+      "stockUrgency": "Disponibilité à confirmer chez le marchand",
+      "expertReview": "Une option intéressante pour les déplacements et les besoins modérés. La puissance X-Boost n'est pas équivalente à la puissance nominale : vérifiez la compatibilité avec vos appareils.",
+      "trustBadges": ["Garantie selon les conditions EcoFlow", "Livraison à vérifier au panier", "Boutique officielle EcoFlow"],
+      "image": { "src": "https://websiteoss.ecoflow.com/media/river2max/pc/river-2-max-portable-power-station.webp", "alt": "Station d'énergie portable EcoFlow RIVER 2 Max" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=EcoFlow+RIVER+2+Max&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=EcoFlow+RIVER+2+Max&tag=VOTRE_TAG-21", "brand": "https://fr.ecoflow.com/collections/2-river-series-menu/products/river-2-max-portable-power-station?ref=VOTRE_ID_AFFILIE" }
+    },
+    {
+      "id": "bluetti-eb3a",
+      "seoSlug": "bluetti-eb3a",
+      "name": "BLUETTI EB3A",
+      "brand": "BLUETTI",
+      "model": "EB3A",
+      "category": "L'Ultra-Compact — Entrée de gamme",
+      "price": 249,
+      "priceEUR": 249,
+      "priceNote": "Prix indicatif ; tarif et disponibilité peuvent varier.",
+      "rating": 4.4,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 8.6,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Une petite station de 268 Wh et 4,6 kg conçue pour l'appoint, les courts séjours et les appareils de faible puissance.",
+      "specs": { "capacityWh": 268, "weightKg": 4.6, "maxOutputW": 600, "outputW": 600, "batteryType": "LFP" },
+      "badge": "Petit format, grande praticité",
+      "badgeTone": "slate",
+      "pros": ["Format léger de 4,6 kg", "Batterie LFP", "Sortie AC de 600 W"],
+      "cons": ["Autonomie limitée par 268 Wh", "Ne convient pas aux longues alimentations sans recharge"],
+      "stockUrgency": "Disponibilité à confirmer chez le marchand",
+      "expertReview": "Un modèle d'entrée de gamme pratique pour les besoins ponctuels. Sa capacité modeste impose de prioriser les appareils et de prévoir des recharges régulières.",
+      "trustBadges": ["Garantie selon les conditions BLUETTI", "Livraison à vérifier au panier", "Boutique officielle BLUETTI"],
+      "image": { "src": "https://fr.bluettipower.eu/cdn/shop/products/EB3A-1_750x.jpg?v=1685676645", "alt": "Station d'énergie portable BLUETTI EB3A" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=BLUETTI+EB3A&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=BLUETTI+EB3A&tag=VOTRE_TAG-21", "brand": "https://fr.bluettipower.eu/products/bluetti-eb3a?ref=VOTRE_ID_AFFILIE" }
+    },
+    {
+      "id": "jackery-explorer-1000-eu",
+      "seoSlug": "jackery-explorer-1000-eu",
+      "name": "Jackery Explorer 1000 EU",
+      "brand": "Jackery",
+      "model": "Explorer 1000 EU",
+      "category": "Le Modèle Intuitif & Grand Public",
+      "price": 899,
+      "priceEUR": 899,
+      "priceNote": "Prix indicatif ; tarif et disponibilité peuvent varier.",
+      "rating": 4.5,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 8.5,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Une station de 1 002 Wh à interface simple, donnée pour 1 000 W et équipée d'une batterie NMC.",
+      "specs": { "capacityWh": 1002, "weightKg": 10.6, "maxOutputW": 1000, "outputW": 1000, "batteryType": "NMC" },
+      "badge": "Simple à prendre en main",
+      "badgeTone": "emerald",
+      "pros": ["Capacité d'environ 1 kWh", "Interface accessible au grand public", "Poids contenu pour cette capacité"],
+      "cons": ["Batterie NMC plutôt que LFP", "Prix pouvant varier selon les packs"],
+      "stockUrgency": "Disponibilité à confirmer chez le marchand",
+      "expertReview": "Un modèle accessible pour qui privilégie une utilisation simple autour d'1 kWh. Comparez attentivement la génération exacte, les accessoires fournis et la garantie du vendeur.",
+      "trustBadges": ["Garantie selon les conditions Jackery", "Livraison à vérifier au panier", "Boutique officielle Jackery"],
+      "image": { "src": "https://eu.jackery.com/cdn/shop/products/1000_9203e11f-99ac-43d7-a19b-78808c0ab51c.png?v=1681873844&width=1200", "alt": "Station d'énergie portable Jackery Explorer 1000 EU" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=Jackery+Explorer+1000+EU&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=Jackery+Explorer+1000+EU&tag=VOTRE_TAG-21", "brand": "https://eu.jackery.com/products/jackery-explorer-1000-portable-power-station?ref=VOTRE_ID_AFFILIE" }
+    },
+    {
+      "id": "anker-757-powerhouse",
+      "seoSlug": "anker-757-powerhouse",
+      "name": "Anker 757 PowerHouse",
+      "brand": "Anker",
+      "model": "757 PowerHouse",
+      "category": "Le Plus Endurant — Robuste",
+      "price": 999,
+      "priceEUR": 999,
+      "priceNote": "Prix indicatif de référence ; disponibilité de ce modèle à vérifier.",
+      "rating": 4.6,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 8.3,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Une station robuste de 1 229 Wh avec batterie LFP et puissance de sortie annoncée de 1 500 W.",
+      "specs": { "capacityWh": 1229, "weightKg": 19.9, "maxOutputW": 1500, "outputW": 1500, "batteryType": "LFP" },
+      "badge": "Conçue pour durer",
+      "badgeTone": "slate",
+      "pros": ["Batterie LFP", "Capacité élevée de 1 229 Wh", "Construction pensée pour un usage soutenu"],
+      "cons": ["Poids important de 19,9 kg", "Modèle et disponibilité à confirmer selon le marché"],
+      "stockUrgency": "Vérifier la disponibilité et la génération du modèle",
+      "expertReview": "Sa capacité et sa conception robuste séduisent pour des usages réguliers, mais son poids est à prendre en compte avant de l'emporter souvent. Vérifiez la disponibilité locale et la version exacte.",
+      "trustBadges": ["Garantie selon les conditions Anker", "Livraison à vérifier au panier", "Boutique officielle Anker"],
+      "image": { "src": "https://cdn.shopify.com/s/files/1/0508/1815/4652/files/EN-PC-Frame2-tuya_3840x.jpg?v=1686200039&width=1200", "alt": "Station d'énergie portable Anker 757 PowerHouse" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=Anker+757+PowerHouse&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=Anker+757+PowerHouse&tag=VOTRE_TAG-21", "brand": "https://www.anker.com/products/a1770?ref=VOTRE_ID_AFFILIE" }
+    },
+    {
+      "id": "goal-zero-yeti-1000x",
+      "seoSlug": "goal-zero-yeti-1000x",
+      "name": "Goal Zero Yeti 1000X",
+      "brand": "Goal Zero",
+      "model": "Yeti 1000X",
+      "category": "Le Haut de Gamme — Pro",
+      "price": 1429,
+      "priceEUR": 1429,
+      "priceNote": "Prix indicatif de référence ; tarif et disponibilité à vérifier auprès du distributeur.",
+      "rating": 4.3,
+      "ratingLabel": "note éditoriale indicative sur 5, non issue d'avis clients agrégés",
+      "ratingCount": null,
+      "ratingIsVerified": false,
+      "expertScore": 8.0,
+      "expertScoreLabel": "Évaluation éditoriale indicative sur 10",
+      "expertReviewIsVerified": false,
+      "summary": "Une station de gamme supérieure de 983 Wh et 14,37 kg, avec sorties AC jusqu'à 1 500 W et batterie NMC.",
+      "specs": { "capacityWh": 983, "weightKg": 14.37, "maxOutputW": 1500, "outputW": 1500, "batteryType": "NMC" },
+      "badge": "Pour les usages exigeants",
+      "badgeTone": "amber",
+      "pros": ["Puissance de sortie jusqu'à 1 500 W", "Plusieurs options de recharge", "Écosystème Goal Zero reconnu"],
+      "cons": ["Prix élevé", "Batterie NMC et poids conséquent"],
+      "stockUrgency": "Vérifier la disponibilité et le tarif chez le distributeur",
+      "expertReview": "Une référence premium à considérer pour ses options de sortie et son écosystème. Le prix, le poids et la chimie NMC méritent une comparaison avec les modèles LFP plus récents.",
+      "trustBadges": ["Garantie selon les conditions Goal Zero", "Livraison à vérifier au panier", "Distributeur Goal Zero à confirmer"],
+      "image": { "src": "https://cdn.shopify.com/s/files/1/0520/1156/5225/files/Yeti_1000X_58a338a2-2f82-4b8f-918e-319e81afb0de_480x480", "alt": "Station d'énergie portable Goal Zero Yeti 1000X" },
+      "affiliateUrl": "https://www.amazon.fr/s?k=Goal+Zero+Yeti+1000X&tag=VOTRE_TAG-21",
+      "links": { "amazon": "https://www.amazon.fr/s?k=Goal+Zero+Yeti+1000X&tag=VOTRE_TAG-21", "brand": "https://goalzero.com/products/yeti-1000x-portable-power-station?ref=VOTRE_ID_AFFILIE" }
+    }
+  ],
+  "versus": {
+    "title": "EcoFlow DELTA 2 ou RIVER 2 Max ?",
+    "intro": "Deux stations EcoFlow pensées pour des usages différents : comparez capacité, poids, puissance et prix indicatif.",
+    "productIds": ["ecoflow-delta-2", "ecoflow-river-2-max"],
+    "criteria": [
+      { "label": "Prix indicatif", "specKey": "priceEUR", "unit": "€" },
+      { "label": "Capacité", "specKey": "capacityWh", "unit": "Wh" },
+      { "label": "Poids", "specKey": "weightKg", "unit": "kg" },
+      { "label": "Puissance maximale annoncée", "specKey": "maxOutputW", "unit": "W" },
+      { "label": "Score éditorial indicatif", "specKey": "expertScore", "unit": "/10" }
+    ]
+  },
+  "guide": {
+    "title": "Comment choisir une station d'énergie portable ?",
+    "intro": "Commencez par les appareils que vous souhaitez alimenter, puis comparez capacité, puissance, recharge et poids.",
+    "sections": [
+      { "id": "capacite-wh", "title": "Calculer la capacité utile en Wh", "body": "Additionnez la consommation en watts de vos appareils et leur durée d'utilisation. Une station ne restitue pas toute sa capacité nominale : prévoyez une marge pour les pertes de conversion et les conditions d'usage." },
+      { "id": "puissance-sortie", "title": "Vérifier la puissance de sortie", "body": "La puissance continue doit couvrir les appareils utilisés en même temps. Certains modèles proposent un mode de puissance renforcée, dont la compatibilité dépend de l'appareil et ne remplace pas toujours la puissance nominale." },
+      { "id": "batterie-lfp-nmc", "title": "Comparer les batteries LFP et NMC", "body": "Les batteries LFP sont souvent données pour davantage de cycles, tandis que les batteries NMC peuvent contribuer à réduire le poids ou le volume. Comparez les conditions de garantie et les données du fabricant." },
+      { "id": "recharge-solaire", "title": "Évaluer la recharge solaire", "body": "La vitesse de recharge dépend de la puissance du panneau, de l'ensoleillement, de l'orientation et de la limite d'entrée solaire de la station. Vérifiez la compatibilité des connecteurs et la tension autorisée." },
+      { "id": "poids-usages", "title": "Adapter le poids à votre usage", "body": "Pour le van ou le camping itinérant, le poids et l'encombrement comptent autant que la capacité. Une station plus lourde peut convenir à un usage fixe ou à des besoins énergétiques plus importants." }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Comment calculer l'autonomie d'une station en Wh ?",
+      "answer": "Divisez la capacité utilisable de la station par la consommation de l'appareil en watts. Par exemple, 500 Wh utilisables alimentant un appareil de 50 W donnent environ 10 heures théoriques. Les pertes de conversion et les conditions réelles réduisent généralement cette durée."
+    },
+    {
+      "question": "Combien de temps dure une batterie LFP ?",
+      "answer": "La durée dépend du nombre de cycles annoncé par le fabricant, de la profondeur de décharge, de la température, de l'entretien et de l'usage. Les cellules LFP sont généralement conçues pour supporter davantage de cycles que les NMC, mais il faut comparer les garanties et spécifications du modèle précis."
+    },
+    {
+      "question": "Une station solaire portable convient-elle à un van ?",
+      "answer": "Oui, si sa capacité, sa puissance de sortie et ses options de recharge correspondent aux appareils utilisés et à la durée d'autonomie visée. Vérifiez aussi le poids, les dimensions, la puissance solaire d'entrée et les règles de fixation et de ventilation du véhicule."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Comment calculer l'autonomie d'une station en Wh ?",
+      "answer": "Divisez la capacité utilisable de la station par la consommation de l'appareil en watts. Par exemple, 500 Wh utilisables alimentant un appareil de 50 W donnent environ 10 heures théoriques. Les pertes de conversion et les conditions réelles réduisent généralement cette durée."
+    },
+    {
+      "question": "Combien de temps dure une batterie LFP ?",
+      "answer": "La durée dépend du nombre de cycles annoncé par le fabricant, de la profondeur de décharge, de la température, de l'entretien et de l'usage. Les cellules LFP sont généralement conçues pour supporter davantage de cycles que les NMC, mais il faut comparer les garanties et spécifications du modèle précis."
+    },
+    {
+      "question": "Une station solaire portable convient-elle à un van ?",
+      "answer": "Oui, si sa capacité, sa puissance de sortie et ses options de recharge correspondent aux appareils utilisés et à la durée d'autonomie visée. Vérifiez aussi le poids, les dimensions, la puissance solaire d'entrée et les règles de fixation et de ventilation du véhicule."
+    }
+  ]
+}

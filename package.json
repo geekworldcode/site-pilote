@@ -1,0 +1,24 @@
+{
+  "name": "solarnomade",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node scripts/generate-seo.js",
+    "build": "vite build",
+    "postbuild": "node scripts/prerender-home.js && node scripts/prerender-products.js && node scripts/generate-seo.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.70.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.6"
+  }
+}
